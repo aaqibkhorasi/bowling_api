@@ -35,7 +35,7 @@ class StartGame(Resource):
         Returns:
             [type]: [description]
         """
-        return game_service.start_game()
+        return game_service.start_game(), 201
 
 
 class KnockedPins(Resource):
