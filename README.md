@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ```
 
 ## Endpoints
-
+* [Create Game](startgame.md) : `POST /start_game`
 
 
 ## UnitTest
