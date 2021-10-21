@@ -1,0 +1,5 @@
+Flask
+nose
+pyparsing
+pytest
+flask_restful
