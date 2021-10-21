@@ -21,6 +21,13 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install SuperBo
 pip install -r requirements.txt
 ```
 
+Run the app
+```bash
+python app.py
+
+```
+By default it will be hosted on port 5000: localhost:5000/
+
 ## Endpoints
 * [Create Game](/docs/startgame.md) : `POST /start_game`
 * [Updated Knocked Pin](/docs/knockedpins.md) : `POST /knocked_pins`
