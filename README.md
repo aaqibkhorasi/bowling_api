@@ -24,3 +24,10 @@ pip install -r requirements.txt
 ## Endpoints
 
 
+
+## UnitTest
+
+In order to run unit test, run following
+```
+nosetests -v game_service_test.py
+```
